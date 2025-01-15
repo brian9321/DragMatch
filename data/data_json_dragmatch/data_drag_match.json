@@ -1,0 +1,72 @@
+
+
+[
+  {
+    "targetIndex": 0,
+    "imageTargetSrc": "https://brian9321.github.io/DragMatch/data/imageTargetSrc/0.mind",
+    "videoActive": true,
+    "modelActive": true,
+    "imageActive": false,
+    "video": [
+      {
+        "videoSrc": "https://cdn.glitch.global/49080beb-c1fc-4766-b13a-b80adb110335/FOTOGRAFI%CC%81A%20DE%20SAN%20VALENTIN%202023%20.mp4?v=1736803093622",
+        "videoPosition": "0 0.5 0.2",
+        "videoWidth": 1.5,
+        "videoHeight": 1,
+        "rotation": "0 0 0"
+      }
+    ],
+    "model": [
+      {
+        "modelSrc": "https://brian9321.github.io/DragMatch/assets/models/0/scene.gltf",
+        "modelPosition": "0 -0.9 0.5",
+        "modelScale": "0.3 0.3 0.3",
+        "rotation": "0 0 0"
+      }
+    ],
+    "image": [
+      {
+        "imageSrc": "https://brian9321.github.io/DragMatch/assets/image/icons/someImage.png",
+        "imagePosition": "0 1 0.2",
+        "imageWidth": 0.5,
+        "imageHeight": 0.5,
+        "rotation": "0 0 0"
+      }
+    ]
+  },
+  {
+      "targetIndex": 1,
+      "imageTargetSrc": "https://brian9321.github.io/DragMatch/data/imageTargetSrc/0.mind",
+      "videoActive": false,
+      "modelActive": true,
+      "imageActive": false,
+      "video": [],
+      "model": [
+        {
+          "modelSrc": "https://brian9321.github.io/DragMatch/assets/models/0/scene.gltf",
+          "modelPosition": "0 -0.9 0.5",
+          "modelScale": "0.3 0.3 0.3",
+          "rotation": "0 0 0"
+        }
+      ],
+      "image": []
+  },
+  {
+      "targetIndex": 2,
+      "imageTargetSrc": "https://brian9321.github.io/DragMatch/data/imageTargetSrc/0.mind",
+      "videoActive": false,
+      "modelActive": false,
+      "imageActive": true,
+      "video": [],
+      "model": [],
+      "image": [
+        {
+          "imageSrc": "https://st.depositphotos.com/1637793/1216/i/450/depositphotos_12167961-stock-photo-couple-on-the-shore-of.jpg",
+          "imagePosition": "0 0.5 0.2",
+          "imageWidth": 1.5,
+          "imageHeight": 1,
+          "rotation": "0 0 0"
+        }
+      ]
+    }
+]
