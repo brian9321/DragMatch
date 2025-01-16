@@ -43,7 +43,7 @@
       "video": [],
       "model": [
         {
-          "modelSrc": "https://cdn.glitch.com/2f463e11-cf69-479f-9a9e-6906be017dad%2FLogo%20DomoXtremeYletras.glb?v=1581825307888",
+          "modelSrc": "https://brian9321.github.io/DragMatch/assets/models/1/scene.gltf",
           "modelPosition": "0 0.0 0.0",
           "modelScale": "0.08 0.08 0.08",
           "rotation": "0 90 90"
