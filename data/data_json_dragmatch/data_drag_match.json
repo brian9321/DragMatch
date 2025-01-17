@@ -19,9 +19,9 @@
     "model": [
       {
         "modelSrc": "https://brian9321.github.io/DragMatch/assets/models/0/scene.gltf",
-        "modelPosition": "0 0.68 -1.54",
+        "modelPosition": "0 0 1.50",
         "modelScale": "0.3 0.3 0.3",
-        "rotation": "-70.40 90 0"
+        "rotation": "-90 0 0"
       }
     ],
     "image": [
