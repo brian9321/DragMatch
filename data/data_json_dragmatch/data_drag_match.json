@@ -19,7 +19,7 @@
     "model": [
       {
         "modelSrc": "https://brian9321.github.io/DragMatch/assets/models/0/scene.gltf",
-        "modelPosition": "0 -0.9 0.5",
+        "modelPosition": "0 0 0",
         "modelScale": "0.3 0.3 0.3",
         "rotation": "0 0 0"
       }
