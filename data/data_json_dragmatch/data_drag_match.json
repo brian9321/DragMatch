@@ -50,9 +50,9 @@
         },
         {
           "modelSrc": "https://cdn.glitch.global/49080beb-c1fc-4766-b13a-b80adb110335/FOTOGRAFI%CC%81A%20DE%20SAN%20VALENTIN%202023%20.mp4?v=1736803093622",
-          "modelPosition": "0.0 0.16 0.5",
-          "modelScale": "0.3 0.3 0.3",
-          "rotation": " 92.14 0.0 0.0"
+          "modelPosition": "0 -0.9 0.5",
+          "modelScale": "0.29 0.29 0.29",
+          "rotation": " 0 0 0"
         }
       ],
       "image": []
