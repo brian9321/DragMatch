@@ -73,5 +73,38 @@
           "rotation": "0 0 0"
         }
       ]
+    },
+
+    {
+      "targetIndex": 3,
+      "imageTargetSrc": "https://brian9321.github.io/DragMatch/data/imageTargetSrc/0.mind",
+      "videoActive": true,
+      "modelActive": false,
+      "imageActive": false,
+      "video": [
+        {
+          "videoSrc": "https://brian9321.github.io/DragMatch/assets/image/video/3.MP4",
+          "videoPosition": "0 0.08 -0.24",
+          "videoScale": "0.32 0.28 0",
+          "rotation": "0 0 0"
+        }
+      ],
+      "model": [
+        {
+          "modelSrc": "https://brian9321.github.io/DragMatch/assets/models/0/scene.gltf",
+          "modelPosition": "0 0 1.11",
+          "modelScale": "0.3 0.3 0.54",
+          "rotation": "-90 0 0"
+        }
+      ],
+      "image": [
+        {
+          "imageSrc": "https://brian9321.github.io/DragMatch/assets/image/icons/someImage.png",
+          "imagePosition": "0 1 0.2",
+          "imageWidth": 0.5,
+          "imageHeight": 0.5,
+          "rotation": "0 0 0"
+        }
+      ]
     }
 ]
