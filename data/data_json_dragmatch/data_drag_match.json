@@ -34,28 +34,34 @@
     ]
   },
   {
-      "targetIndex": 1,
-      "imageTargetSrc": "https://brian9321.github.io/DragMatch/data/imageTargetSrc/1.mind",
-      "videoActive": false,
-      "modelActive": true,
-      "imageActive": false,
-      "video": [],
-      "model": [
-        {
-          "modelSrc": "https://brian9321.github.io/DragMatch/assets/models/1/scene.gltf",
-          "modelPosition": "0.0 0.0 0.0",
-          "modelScale": "0.04 0.04 0.04",
-          "rotation": "0.00 90.0 0.00"
-        },
-        {
-          "modelSrc": "https://brian9321.github.io/DragMatch/assets/models/0/scene.gltf",
-          "modelPosition": "0 0.18 -1.23",
-          "modelScale": "0.29 0.29 0.29",
-          "rotation": "92.14 0 0"
-        }
-      ],
-      "image": []
-  },
+  "targetIndex": 1,
+  "imageTargetSrc": "https://brian9321.github.io/DragMatch/data/imageTargetSrc/1.mind",
+  "videoActive": false,
+  "modelActive": true,
+  "imageActive": false,
+  "video": [],
+  "model": [
+    {
+      "src": "https://brian9321.github.io/DragMatch/assets/models/1/scene.gltf",
+      "position": {
+        "x": -0.10230523321650878,
+        "y": 0.11261786791173012,
+        "z": 0.027493647357775153
+      },
+      "rotation": {
+        "x": -180,
+        "y": 89.60589066421159,
+        "z": -180
+      },
+      "scale": {
+        "x": 0.01961047592666146,
+        "y": 0.01961047592666146,
+        "z": 0.01961047592666146
+      }
+    }
+  ],
+  "image": []
+},
   {
       "targetIndex": 2,
       "imageTargetSrc": "https://brian9321.github.io/DragMatch/data/imageTargetSrc/0.mind",
