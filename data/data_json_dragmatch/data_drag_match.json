@@ -170,14 +170,14 @@
   "targetIndex": 4,
   "imageTargetSrc": "https://brian9321.github.io/DragMatch/data/imageTargetSrc/4.mind",
   "videoActive": true,
-  "modelActive": false,
+  "modelActive": true,
   "imageActive": false,
   "video": [
     {
       "src": "https://cdn.glitch.global/49080beb-c1fc-4766-b13a-b80adb110335/ec6dcae0-659c-403c-8b11-2e5e5c1d978c.MP4?v=1737418510689",
       "position": {
         "x": 0,
-        "y": 0.04,
+        "y": 0.02,
         "z": 0
       },
       "rotation": {
@@ -186,11 +186,52 @@
         "z": 0
       },
       "scale": {
-        "x": 0.9864491173162113,
-        "y": 0.7581487890664592,
-        "z": 0.9864491173162113
+        "x": 1,
+        "y": 0.8196359510990345,
+        "z": 1
       }
     }
+  ],
+  "model": [
+    {
+      "src": "https://brian9321.github.io/DragMatch/assets/models/party_gift/scene.gltf",
+      "position": {
+        "x": -0.5474169022244718,
+        "y": 0.4784544093587435,
+        "z": 0.0013698338448341063
+      },
+      "rotation": {
+        "x": -47.71300015121762,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "src": "https://brian9321.github.io/DragMatch/assets/models/party_gift/scene.gltf",
+      "position": {
+        "x": 0.6172659223879448,
+        "y": 0.07835342873187409,
+        "z": 0.0013698338448341063
+      },
+      "rotation": {
+        "x": -47.12799073034205,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    }
+  ],
+  "image": []
+}
   ],
   "model": [],
   "image": []
