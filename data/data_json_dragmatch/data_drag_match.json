@@ -165,5 +165,34 @@
           }
         }
       ]
+    },
+  {
+  "targetIndex": 4,
+  "imageTargetSrc": "https://brian9321.github.io/DragMatch/data/imageTargetSrc/0.mind",
+  "videoActive": true,
+  "modelActive": false,
+  "imageActive": false,
+  "video": [
+    {
+      "src": "https://cdn.glitch.global/49080beb-c1fc-4766-b13a-b80adb110335/ec6dcae0-659c-403c-8b11-2e5e5c1d978c.MP4?v=1737418510689",
+      "position": {
+        "x": 0,
+        "y": 0.04,
+        "z": 0
+      },
+      "rotation": {
+        "x": -90,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.9864491173162113,
+        "y": 0.7581487890664592,
+        "z": 0.9864491173162113
+      }
     }
+  ],
+  "model": [],
+  "image": []
+}
 ]
