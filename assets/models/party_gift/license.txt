@@ -1,0 +1,11 @@
+Model Information:
+* title:	Party Gift
+* source:	https://sketchfab.com/3d-models/party-gift-4c1d01e599dd47bbb0b1c875fef5ca1c
+* author:	Lauren Herda (https://sketchfab.com/herda)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Party Gift" (https://sketchfab.com/3d-models/party-gift-4c1d01e599dd47bbb0b1c875fef5ca1c) by Lauren Herda (https://sketchfab.com/herda) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
