@@ -235,13 +235,13 @@
 
 {
   "targetIndex": 5,
-  "imageTargetSrc": "https://brian9321.github.io/DragMatch/data/imageTargetSrc/0.mind",
+  "imageTargetSrc": "https://brian9321.github.io/DragMatch/data/imageTargetSrc/5.mind",
   "videoActive": true,
   "modelActive": false,
   "imageActive": false,
   "video": [
     {
-      "src": "https://brian9321.github.io/DragMatch/assets/video/0.MP4",
+      "src": "https://brian9321.github.io/DragMatch/assets/video/5.MP4",
       "position": {
         "x": 0,
         "y": 0.11822013811034193,
