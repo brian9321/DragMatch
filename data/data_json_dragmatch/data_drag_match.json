@@ -259,7 +259,44 @@
       }
     }
   ],
-  "model": [],
+  "model": [
+    {
+      "src": "https://brian9321.github.io/DragMatch/assets/models/neon_heart_appearance_animation/scene.gltf",
+      "position": {
+        "x": 0,
+        "y": 0.4,
+        "z": 0
+      },
+      "rotation": {
+        "x": -90,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.01,
+        "y": 0.01,
+        "z": 0.01
+      }
+    },
+    {
+      "src": "https://brian9321.github.io/DragMatch/assets/models/0/scene.gltf",
+      "position": {
+        "x": 0.6172659223879448,
+        "y": 0.07835342873187409,
+        "z": 0.0013698338448341063
+      },
+      "rotation": {
+        "x": -47.12799073034205,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    }
+  ],
   "image": []
 }
 ]

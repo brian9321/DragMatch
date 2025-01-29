@@ -1,0 +1,11 @@
+Model Information:
+* title:	Neon Heart Appearance Animation
+* source:	https://sketchfab.com/3d-models/neon-heart-appearance-animation-4f5d884dd3114190847d220188ff8022
+* author:	Thor5ten (https://sketchfab.com/Thor5ten)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Neon Heart Appearance Animation" (https://sketchfab.com/3d-models/neon-heart-appearance-animation-4f5d884dd3114190847d220188ff8022) by Thor5ten (https://sketchfab.com/Thor5ten) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
