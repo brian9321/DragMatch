@@ -263,7 +263,7 @@
     {
       "src": "https://brian9321.github.io/DragMatch/assets/models/neon_heart_appearance_animation/scene.gltf",
       "position": {
-        "x": 0,
+        "x": -0.1,
         "y": -0.05,
         "z": 0
       },
@@ -281,7 +281,7 @@
     {
       "src": "https://brian9321.github.io/DragMatch/assets/models/neon_heart_appearance_animation/scene.gltf",
       "position": {
-        "x": 0.6,
+        "x": 0.1,
         "y": -0.05,
         "z": 0
       },
