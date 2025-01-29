@@ -277,6 +277,24 @@
         "z": 0.1
       },
       "src": "https://brian9321.github.io/DragMatch/assets/models/firework/scene.gltf"
+    },
+    {
+      "src": "https://brian9321.github.io/DragMatch/assets/models/0/scene.gltf",
+      "position": {
+        "x": 0,
+        "y": 0.14,
+        "z": 0.70
+      },
+      "rotation": {
+        "x": -90,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.1,
+        "y": 0.1,
+        "z": 0.1
+      }
     }
   ],
   "image": []
