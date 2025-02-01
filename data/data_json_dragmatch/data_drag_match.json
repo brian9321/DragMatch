@@ -266,5 +266,145 @@
     }
   ],
   "image": []
+},
+
+{
+  "image": [
+    {
+      "position": {
+        "x": -0.47412139326785535,
+        "y": 0.8687757889980449,
+        "z": 0.07394275483960833
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.5213649017159507,
+        "y": 0.6640504298738346,
+        "z": 1
+      },
+      "src": "https://brian9321.github.io/DragMatch/assets/image/estrellas_1.webp"
+    },
+    {
+      "position": {
+        "x": 0.4589571541721966,
+        "y": -0.8063157628656905,
+        "z": 0.07394275483960833
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.5213649017159507,
+        "y": 0.6640504298738346,
+        "z": 1
+      },
+      "src": "https://brian9321.github.io/DragMatch/assets/image/estrellas_1.webp"
+    },
+    {
+      "position": {
+        "x": 0.010294596104071962,
+        "y": 0.9050382878960468,
+        "z": 0.15675077302471024
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.14763438360581302,
+        "y": 0.14763438360581302,
+        "z": 0.14763438360581302
+      },
+      "src": "https://brian9321.github.io/DragMatch/assets/image/heard_stiker.webp"
+    }
+  ],
+  "imageActive": true,
+  "imageTargetSrc": "https://brian9321.github.io/DragMatch/data/imageTargetSrc/client_0/6.mind",
+  "model": [
+    {
+      "position": {
+        "x": -0.4253670219190532,
+        "y": -0.9511066186380586,
+        "z": 0.07955872932889263
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 11.93254145081199
+      },
+      "scale": {
+        "x": 0.11522310269948748,
+        "y": 0.11522310269948748,
+        "z": 0.11522310269948748
+      },
+      "src": "https://brian9321.github.io/DragMatch/assets/models/0/scene.gltf"
+    },
+    {
+      "position": {
+        "x": 0.4358065608588132,
+        "y": 0.654019884052427,
+        "z": 0.07955872932889263
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": -26.09862309254812
+      },
+      "scale": {
+        "x": 0.11522310269948748,
+        "y": 0.11522310269948748,
+        "z": 0.11522310269948748
+      },
+      "src": "https://brian9321.github.io/DragMatch/assets/models/0/scene.gltf"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 0.5,
+        "z": 2
+      },
+      "rotation": {
+        "x": -90,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.1,
+        "y": 0.1,
+        "z": 0.1
+      },
+      "src": "https://brian9321.github.io/DragMatch/assets/models/firework/scene.gltf"
+    }
+  ],
+  "modelActive": true,
+  "targetIndex": 6,
+  "video": [
+    {
+      "position": {
+        "x": 0,
+        "y": 0.020417965525405757,
+        "z": 0.005513562327749716
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1.7812023191943538,
+        "z": 1
+      },
+      "src": "https://brian9321.github.io/DragMatch/assets/video/eve_1.mp4"
+    }
+  ],
+  "videoActive": true
 }
 ]
