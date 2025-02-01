@@ -406,5 +406,163 @@
     }
   ],
   "videoActive": true
+},
+
+{
+  "image": [
+    {
+      "position": {
+        "x": -0.46799658266397093,
+        "y": 0.8115553815264709,
+        "z": 0.09037224513424968
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.3272399614013167,
+        "y": 0.2214024492523493,
+        "z": 1
+      },
+      "src": "https://brian9321.github.io/DragMatch/assets/image/estrellas_1.webp"
+    },
+    {
+      "position": {
+        "x": 0.4739872890935836,
+        "y": 0.8132774763492108,
+        "z": 0.09037224513424968
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.3272399614013167,
+        "y": 0.2214024492523493,
+        "z": 1
+      },
+      "src": "https://brian9321.github.io/DragMatch/assets/image/estrellas_1.webp"
+    },
+    {
+      "position": {
+        "x": -0.5020713126878596,
+        "y": -0.8100448917389431,
+        "z": 0.09037224513424968
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.3272399614013167,
+        "y": 0.2214024492523493,
+        "z": 1
+      },
+      "src": "https://brian9321.github.io/DragMatch/assets/image/estrellas_1.webp"
+    },
+    {
+      "position": {
+        "x": 0.4687335949296464,
+        "y": -0.8100448917389431,
+        "z": 0.09037224513424968
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.3272399614013167,
+        "y": 0.2214024492523493,
+        "z": 1
+      },
+      "src": "https://brian9321.github.io/DragMatch/assets/image/estrellas_1.webp"
+    }
+  ],
+  "imageActive": true,
+  "imageTargetSrc": "https://brian9321.github.io/DragMatch/data/imageTargetSrc/client_0/-OHiTGgey4cjvEOYl_5p.mind",
+  "model": [
+    {
+      "position": {
+        "x": -0.053692588333196345,
+        "y": -0.913035788371773,
+        "z": 0.17814158701744676
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.11726307808413293,
+        "y": 0.12479867124270752,
+        "z": 0.09665886014184052
+      },
+      "src": "https://brian9321.github.io/DragMatch/assets/models/love_is_love/scene.gltf"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 0.8018531736646752,
+        "z": 0.18900611777918708
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.13513818330293942,
+        "y": 0.13513818330293942,
+        "z": 0.13513818330293942
+      },
+      "src": "https://brian9321.github.io/DragMatch/assets/models/0/scene.gltf"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 0.5,
+        "z": 2
+      },
+      "rotation": {
+        "x": -90,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.1,
+        "y": 0.1,
+        "z": 0.1
+      },
+      "src": "https://brian9321.github.io/DragMatch/assets/models/firework/scene.gltf"
+    }
+  ],
+  "modelActive": true,
+  "targetIndex": 7,
+  "video": [
+    {
+      "position": {
+        "x": 0,
+        "y": -0.002505337243736805,
+        "z": 0.017106526343827533
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1.6713073328883377,
+        "z": 1
+      },
+      "src": "https://brian9321.github.io/DragMatch/assets/video/user_7.mp4"
+    }
+  ],
+  "videoActive": true
 }
 ]

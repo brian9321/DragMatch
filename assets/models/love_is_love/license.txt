@@ -1,0 +1,11 @@
+Model Information:
+* title:	Love is Love
+* source:	https://sketchfab.com/3d-models/love-is-love-5784212bed2c45aaaf3ca6d172530092
+* author:	LuisYr (https://sketchfab.com/luisyr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Love is Love" (https://sketchfab.com/3d-models/love-is-love-5784212bed2c45aaaf3ca6d172530092) by LuisYr (https://sketchfab.com/luisyr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
